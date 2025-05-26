@@ -33,7 +33,3 @@
 
 ## 🎥 Tutorial video
 https://github.com/gongchandang49/brokecord-solver/assets/170948611/18ab43b0-64dd-4a73-bf9f-d67bd5c76a71
-
-
-## ℹ️ Still having trouble? Join our Support server!
-https://t.me/+wIg1QLoP5lU5ODk0
